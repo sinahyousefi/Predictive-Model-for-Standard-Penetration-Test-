@@ -1,4 +1,3 @@
-# HW#5 Solution
 rm(list=ls())
 
 library(leaps);
